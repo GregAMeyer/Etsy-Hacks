@@ -1,3 +1,4 @@
+//this is the main one
 //ideal version that allows user to input how many people he wants to message
 var x = prompt("You want to send this message to the first (number<=10?) of people in the list below?");
 var subject_text = prompt("What should the subject be?");
